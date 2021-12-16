@@ -1,0 +1,17 @@
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\Far01.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\Far01.deps.json
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\Far01.runtimeconfig.json
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\Far01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\ref\Far01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\bin\Debug\net6.0-windows\Far01.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.csproj.AssemblyReference.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.Form1.resources
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.csproj.GenerateResource.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.AssemblyInfoInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.AssemblyInfo.cs
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.csproj.CoreCompileInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\ref\Far01.dll
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Prasittichai\Far01\Far01\obj\Debug\net6.0-windows\Far01.genruntimeconfig.cache
